@@ -44,7 +44,7 @@ function oilPrice(disel, petrol, octane) {
 
 
 
-//Problem Number 4 Start
+//Problem Number 4 Start,,,,,,,,
 function publicBusFare(Passenger) {
     if (typeof Passenger !== "number") {
         return "Please Enter Total Public Number";
